@@ -1,0 +1,31 @@
+{
+  "instagram_user_id": "17841456342433290",
+  "facebook_page_id": "1480557278466433",
+  "base_url": "https://raw.githubusercontent.com/rinorkurteshi91fieldstead-spec/datawithrinor-media/main/posts",
+  "queue": [
+    {
+      "key": "04-diaspora",
+      "slides": 7
+    },
+    {
+      "key": "06-arsimi",
+      "slides": 7
+    },
+    {
+      "key": "07-energjia",
+      "slides": 6
+    },
+    {
+      "key": "08-shendetesia",
+      "slides": 6
+    },
+    {
+      "key": "09-biznesi",
+      "slides": 6
+    },
+    {
+      "key": "10-demokracia",
+      "slides": 6
+    }
+  ]
+}
